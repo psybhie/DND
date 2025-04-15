@@ -1,0 +1,5 @@
+Not having learned its lesson from history, one of these city-states is greedily claiming more and more villages. This isn’t done with soldiers, but politically. By claiming one city doesn’t have the resources to protect a city, it can claim it through formal means. By completing treaties and showing their might, they can claim cities to be their tributaries. This city is slowly amassing power, with a higher population available to be able to levy bigger armies. Soon this will reach a point of no return, and with the higher confidence of having a bigger army, will soon begin the quest for expansion.
+
+Not as big as [[Confluence]], this city tries to gain as much power as possible. Their system of [[Government|government]] is a tyrannical monarchy, where the king tries to exert his power over his vassal city states as much as possible.
+
+Working name and location on the [[Continent]].
