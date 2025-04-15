@@ -22,3 +22,5 @@ Confluence was the first after the [[Last Battle]] to have a magic academy. Batt
 
 Unlike other magic users, clerics and druids were the first magic users to be viewed more favorably, as their power was viewed as a coming from a benevolent force like gods, or a neutral force like nature. This lead to clerics and druids to be some of the first to be accepted into society by those less ignorant of the way magic works. 
 
+Warlocks are still mostly ostracized, along with necromancers. They still exist, but society deems their magic foul and "bad", coming from misbegotten places. A warlock or necromancer living in Confluence will either have to hide their magical abilities or pass as something else.
+
