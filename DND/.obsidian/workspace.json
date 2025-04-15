@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Races on Continent.md",
+                "file": "Bakersfield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Races on Continent"
+              "title": "Bakersfield"
             }
           }
         ]
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races/Races on Continent.md",
+                "file": "Bakersfield.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Races on Continent"
+              "title": "Outline of Bakersfield"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Races on Continent.md",
+                "file": "Bakersfield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Races on Continent"
+              "title": "Backlinks for Bakersfield"
             }
           }
         ],
@@ -171,8 +171,12 @@
   },
   "active": "617a14d245050d8b",
   "lastOpenFiles": [
-    "Confluence.md",
+    "bakersfieldttrpg.jpg",
+    "bakersfieldttrpg.pdf",
+    "Bakersfield.md",
+    "Mistwoods.md",
     "Races/Races on Continent.md",
+    "Confluence.md",
     "History.md",
     "Last Battle.md",
     "Races/Humans.md",
