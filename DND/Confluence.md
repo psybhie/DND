@@ -8,11 +8,6 @@ Nestled in the middle of grand valley, with mountain ranges on all sides, the ci
 
 It would take many centuries for this city to grow to the hub it is during the current age and time. 
 
-## Current Time Confluence
-Confluence is a major trade hub. Many trade routes to all major cities flow out of the center of the continent like water. Since Confluence is in the center of the continent, many of the worlds races would come to live in this settlement. The majority being the [[Humans|humans]], [[Elves|elves]], and [[Dwarves|dwarves]].
-
-With the help of dwarves and civic mages, many tunnels were terraformed into the mountain ranges and served as safe routes through the mountains that surrounded the city. 
-These routes were wide enough for four carriages to be able to fit at ounce, and handle easily the inbound and outbound of travelers to and from the city.
 ## Magic in Confluence
 Confluence was the first to have a less harsh view of magic. They were conflicted; it was what made the land a barren waste that it initially was, but also helped to bring life back to it. With more and more mages coming to live in Confluence, the guilt of the past magic users bore heavily on them. They did everything in their power to restore the land and show the world that magic was not to be used just for the purpose of destruction. This led to many of the current magic practitioners of the area to specialize in magic to help rebuild and not in magic that was used in combat. Sects would appear that were built up of battle mages, civic mages, and healing mages. Battle mages were seen as a somewhat necessity to the cruel world they inhabited with many monsters and dungeons. Civic mages were the ones who would use their magic for the betterment of the society they lived in, helping with roads, buildings, infrastructure, terraforming. Healing mages are self explanatory. 
 
@@ -24,3 +19,8 @@ Unlike other magic users, clerics and druids were the first magic users to be vi
 
 Warlocks are still mostly ostracized, along with necromancers. They still exist, but society deems their magic foul and "bad", coming from misbegotten places. A warlock or necromancer living in Confluence will either have to hide their magical abilities or pass as something else.
 
+## Current Time Confluence
+Confluence is a major trade hub. Many trade routes to all major cities flow out of the center of the continent like water. Since Confluence is in the center of the continent, many of the worlds races would come to live in this settlement. The majority being the [[Humans|humans]], [[Elves|elves]], and [[Dwarves|dwarves]].
+
+With the help of dwarves and civic mages, many tunnels were terraformed into the mountain ranges and served as safe routes through the mountains that surrounded the city. 
+These routes were wide enough for four carriages to be able to fit at ounce, and handle easily the inbound and outbound of travelers to and from the city.
